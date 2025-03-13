@@ -1,4 +1,8 @@
 # Python_Practice
-Practice and challenge programs written by Darron Claus-Davis 
+Practice and challenge programs 
 
-As an undergraduate student this repository contains the very first practice program I wrote to my most current understanding and knowledge. I truly enjoy writing programs and solving problems. I look forward to working with an experinced team to help boost my knowledge and understanding with python.
+This repository contains a collection of my practice and challenge programs, from my very first attempts in Python to my most recent solutions. Each file reflects my growth in problem-solving and coding techniques as I continue my undergraduate studies in software engineering.
+
+I genuinely enjoy writing programs and exploring new challenges. My goal is to keep refining my Python skills and one day collaborate with an experienced team to expand my understanding even further.
+
+Note: The programs are labeled sequentially, starting with “01” for my earliest code and increasing in numerical order as I progress.
