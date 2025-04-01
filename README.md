@@ -5,4 +5,6 @@ This repository contains a collection of my practice and challenge programs, fro
 
 I genuinely enjoy writing programs and exploring new challenges. My goal is to keep refining my Python skills and one day collaborate with an experienced team to expand my understanding even further.
 
-Note: The programs are labeled sequentially, starting with “01” for my earliest code and increasing in numerical order as I progress.
+Note: The programs are labeled sequentially, starting with “01” for my earliest code and increasing in numerical order as I progress, as I continue to further my knowledge in additional coding languages I try to update periodically and do so in "chunks".
+
+I appreciate you being here, thanks!
